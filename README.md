@@ -1,6 +1,6 @@
 # Project: FAT FS Simulator - Simple File System Simulation using FAT
 
-The OSCA FS (Operating System and Computer Architecture Class Project File System) is a program that implements a simple simulation of a file system using a FAT (File Allocation Table) structure. The program allows users to interact with the simulated file system through a command-line menu.
+The FAT FS Simulator (Operating System and Computer Architecture Class Project File System) is a program that implements a simple simulation of a file system using a FAT (File Allocation Table) structure. The program allows users to interact with the simulated file system through a command-line menu.
 
 ## Features
 
@@ -24,7 +24,7 @@ The project consists of several C files that handle specific tasks related to th
 
 ## Usage
 
-To use the OS CAFS program:
+To use the FAT FS Simulator program:
 
 1. Clone the repository: `git clone https://github.com/moheed-ali/FAT-FS-Simulator.git`
 2. Compile the program: `make`
